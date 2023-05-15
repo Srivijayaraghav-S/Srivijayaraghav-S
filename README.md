@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Srivijayaraghav-S
-- 👀 I’m a coding enthusiast interested in web development and machine learning.
+- 👀 I’m a coding enthusiast interested in web development and AI/ML.
 - 🌱 I’m familiar with Python, R, C/C++, HTML, CSS, JavaScript and NodeJS.
+- 💞 I'm looking to collaborate on Web Development and ML projects.
 
 <!---
 Srivijayaraghav-S/Srivijayaraghav-S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
